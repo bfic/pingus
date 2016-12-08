@@ -3,6 +3,10 @@
 
 # Requirements
 
+ping
+socketsubprocess
+sys
+time
 
 
 # How to use
